@@ -55,16 +55,16 @@ Youtube channels:
 
   Programming:
 
-Academind
-CS Dojo
-Derek Banas
-freeCodeCamp
-Joshua Fluke
-LevelUpTuts
-Life of Luba
-The Coding Train
+1. Academind  
+2. CS Dojo  
+3. Derek Banas  
+4. freeCodeCamp  
+5. Joshua Fluke  
+6. LevelUpTuts  
+7. Life of Luba  
+8. The Coding Train  
 
-Writeups, Articles, blogs  ( I have given below some awesome writeups )
+Writeups, Articles, blogs  ( I have mentioned some awesome writeups at the end! )
 
   1. Medium (infosec writeups)
   2. Hackerone public reports
@@ -74,7 +74,7 @@ Writeups, Articles, blogs  ( I have given below some awesome writeups )
   6. DEFCON conference videos
   7. Forums 
 
-Practice (imp)
+Practice (Very Important)
 
  Tools
 
@@ -86,7 +86,7 @@ Practice (imp)
   6. Python PWN Library
   7. Metasploit framework
 
-Testing labs
+Testing Labs
 
   1. DVWA
   2. bWAPP
@@ -96,7 +96,9 @@ Testing labs
   6. Hack the box
 
 Start!   ( Don't Forget this masterpiece- https://book.hacktricks.xyz/ )
+
 *******
+
 Practice Owasp Top 10 and Master at least one Bug.
 
 2. Master In Burpsuite and Nmap
