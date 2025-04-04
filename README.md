@@ -1,6 +1,8 @@
-# Bug-Bounty-n00b ( Yet to organize! Will Update Soon. )
+# Bug-Bounty-Guide
 
-That tweet is only intended for Beginners/Freshers in bug bounty hunting who just started learning about this or want to start! If you are already doing hunting or doing labs then Maybe this won't be too much helpful to you. Thanks!
+That tweet is only intended for Beginners/Freshers in bug bounty hunting who just started learning about this or want to start! If you are already doing hunting or doing labs then Maybe this won't be too much helpful to you. 
+
+Thanks!
 
 It all depends on interest and hard work, not on degree, age, branch, college, etc.
 
